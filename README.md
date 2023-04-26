@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShieldAhri
 - 👀 I’m interested in ...  development of video games
-- 🌱 I’m currently learning ... Godot, Python, Web development
+- 🌱 I’m currently learning ... Godot, Python, Unreal Engine, Web development and C++ 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
